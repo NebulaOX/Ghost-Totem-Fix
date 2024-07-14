@@ -1,0 +1,4 @@
+name: GhostTotemFix
+version: '1.21'
+main: org.plugin.ghosttotemfix.GhostTotemFix
+api-version: '1.21'
